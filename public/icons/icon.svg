@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Dark background with rounded corners (maskable safe zone) -->
+  <rect width="512" height="512" rx="80" fill="#0C0C0C"/>
+  <!-- Barbell shape in electric lime -->
+  <!-- Bar -->
+  <rect x="60" y="230" width="392" height="52" rx="26" fill="#C8FF00"/>
+  <!-- Left plate collar -->
+  <rect x="60" y="200" width="52" height="112" rx="26" fill="#C8FF00"/>
+  <!-- Right plate collar -->
+  <rect x="400" y="200" width="52" height="112" rx="26" fill="#C8FF00"/>
+  <!-- Left end cap -->
+  <rect x="20" y="220" width="52" height="72" rx="26" fill="#C8FF00"/>
+  <!-- Right end cap -->
+  <rect x="440" y="220" width="52" height="72" rx="26" fill="#C8FF00"/>
+</svg>
